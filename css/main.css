@@ -60,6 +60,11 @@ header h1 {
   font-size: 13px;
 }
 
+.navigation li a {
+  text-decoration: none;
+  color: #515359;
+}
+
 /* Price
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .website {
